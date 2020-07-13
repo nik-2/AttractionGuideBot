@@ -1,1 +1,2 @@
-# AttractionGuideBot
+### BOT_USERNAME = AttractionGuideBot
+### BOT_TOKEN = 1230985519:AAFdgLXmlWGArzeSN35hmhbyiGN5BUKkWJM
