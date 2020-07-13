@@ -1,1 +1,1 @@
-worker: sh target/bin/attractionBot
+web: java $JAVA_OPTS -jar target/attractions-0.0.1-SNAPSHOT.jar -D server.port=$PORT
