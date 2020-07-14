@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar -D file.encoding=UTF-8 target/attractions-0.0.1-SNAPSHOT.jar -D server.port=$PORT
+web: java $JAVA_OPTS -jar target/attractions-0.0.1-SNAPSHOT.jar -D server.port=$PORT -D file.encoding=UTF-8
